@@ -2,8 +2,8 @@
 
 ### I'm a Husband and a Software engineer student
 
-- 🌱 I’m currently learning <b>full stack web developement</b> 👨‍💻
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning <b>DevOps</b> 👨‍💻
+- 👯 I'm looking for opporutnity to work as SAP consultant, devops consultant or AMOA (PO) consultant
 - :octocat: I'm a beginner technical writer :pencil:
 
 ### Connect with me:
@@ -41,5 +41,32 @@
 <img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/0DhgDJa.jpg" />
 <img align="left" alt="Git" width="26px" src="https://i.imgur.com/QdAeKG5.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/LwBS0FG.png" />
+<img align="left" alt="Terminal" width="26px" src="https://i.imgur.com/xtGnB3F.png" />
 
+<br>
+<br>
+<br>
+<br>
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Final project in Holberton School](https://www.linkedin.com/pulse/home-weather-station-project-faress-sassi/)
+- [Managing an emergency situation with MySQL](https://www.linkedin.com/pulse/managing-emergency-situation-mysql-faress-sassi/)
+- [What happens when you type holbertonschool.com in your browser and press Enter](https://www.linkedin.com/pulse/what-happens-when-you-type-holbertonschoolcom-your-browser-sassi/)
+- [Internet of Things ("IoT"​) - fields of application, trends and security](https://www.linkedin.com/pulse/internet-things-iot-fields-application-trends-security-faress-sassi/)
+- [Classes and instances in python (POO)](https://www.linkedin.com/pulse/classes-instances-python-poo-faress-sa/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://www.linkedin.com/in/faress-s-8b55a61b1/detail/recent-activity/posts/)
+
+---
+
+<details open>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Fares84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fares84&show_icons=true&hide_border=true&theme=dracula" />
+
+</details>
