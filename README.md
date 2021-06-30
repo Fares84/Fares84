@@ -42,6 +42,7 @@
 <img align="left" alt="Git" width="26px" src="https://i.imgur.com/QdAeKG5.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/LwBS0FG.png" />
 <img align="left" alt="Terminal" width="26px" src="https://i.imgur.com/xtGnB3F.png" />
+<img align="left" alt="Terminal" width="26px" src="https://swimburger.net/media/ppnn3pcl/azure.png" />
 
 <br>
 <br>
