@@ -76,11 +76,11 @@
 
 
 <a href="https://github.com/Fares84/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Fares84.vercel.app/api?username=Fares84&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fares's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fares84&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fares's github stats" />
 </a>
 <a href="https://github.com/Fares84/github-readme-stats">
   <!-- Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Fares84.vercel.app/api/top-langs/?username=Fares84&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fares84&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/Fares84/github-readme-stats">
