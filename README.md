@@ -21,6 +21,8 @@
 </a>
 
 
+ <a href="mailto:fares_sassi@outlook.fr"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-3327398-2789947.png" alt="Python" height="40"></a>
+
 <br>
 
 ### Languages:
