@@ -28,11 +28,11 @@
 ### Languages:
 
 
-<img align="left" alt="C" width="26px" src="https://i.imgur.com/3B65ag6.png" />
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/w8GdV2R.png" />
-<img align="left" alt="Flask" width="26px" src="https://i.imgur.com/1GgALBu.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/Qb7CGcO.png" />
-<img align="left" alt="CSS3" width="26px" src="https://i.imgur.com/XwPXdgO.png" />
+<img align="left" alt="C" width="40px" src="https://i.imgur.com/3B65ag6.png" height="40"/>
+<img align="left" alt="Python" width="40px" src="https://i.imgur.com/w8GdV2R.png" height="40"/>
+<img align="left" alt="Flask" width="40px" src="https://i.imgur.com/1GgALBu.jpg" height="40"/>
+<img align="left" alt="HTML5" width="40px" src="https://i.imgur.com/Qb7CGcO.png" height="40"/>
+<img align="left" alt="CSS3" width="40px" src="https://i.imgur.com/XwPXdgO.png" height="40"/>
 
 
 <br>
