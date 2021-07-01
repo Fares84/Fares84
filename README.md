@@ -54,7 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Final project in Holberton School](https://www.linkedin.com/pulse/home-weather-station-project-faress-sassi/)
+- [Final project in Holberton School: Azure Iot Hub Home Weather Station ](https://www.linkedin.com/pulse/home-weather-station-project-faress-sassi/)
 - [Managing an emergency situation with MySQL](https://www.linkedin.com/pulse/managing-emergency-situation-mysql-faress-sassi/)
 - [What happens when you type holbertonschool.com in your browser and press Enter](https://www.linkedin.com/pulse/what-happens-when-you-type-holbertonschoolcom-your-browser-sassi/)
 - [Internet of Things ("IoT"​) - fields of application, trends and security](https://www.linkedin.com/pulse/internet-things-iot-fields-application-trends-security-faress-sassi/)
@@ -62,6 +62,35 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.linkedin.com/in/faress-s-8b55a61b1/detail/recent-activity/posts/)
+
+---
+
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Fares84/github-readme-stats)*
+
+
+<a href="https://github.com/Fares84/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Fares84.vercel.app/api?username=Fares84&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fares's github stats" />
+</a>
+<a href="https://github.com/Fares84/github-readme-stats">
+  <!-- Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Fares84.vercel.app/api/top-langs/?username=Fares84&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Fares84/github-readme-stats">
+  <!-- Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fares84&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/Fares84/Fares84.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fares84&repo=Fares84.github.io&theme=material-palenight" />
+</a>
 
 ---
 
