@@ -3,7 +3,7 @@
 ### I'm a Husband and a Software engineer student
 
 - 🌱 I’m currently learning <b>DevOps</b> 👨‍💻
-- 👯 I'm looking for opporutnity to work as SAP consultant, devops consultant or AMOA (PO) consultant
+- 👯 I'm looking for opporutnity to work as SAP consultant, Devops consultant or AMOA/PO consultant
 - :octocat: I'm a beginner technical writer :pencil:
 
 ### Connect with me:
