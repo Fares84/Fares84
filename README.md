@@ -21,7 +21,7 @@
 </a>
 
 
- <a href="mailto:fares_sassi@outlook.fr"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-3327398-2789947.png" alt="Python" height="40"></a>
+ <a href="mailto:fares_sassi@outlook.fr"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-3327398-2789947.png" height="40"></a>
 
 <br>
 
@@ -40,11 +40,11 @@
 
 ### Technologies:
 
-<img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/0DhgDJa.jpg" />
-<img align="left" alt="Git" width="26px" src="https://i.imgur.com/QdAeKG5.png" />
-<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/LwBS0FG.png" />
-<img align="left" alt="Terminal" width="26px" src="https://i.imgur.com/xtGnB3F.png" />
-<img align="left" alt="Terminal" width="26px" src="https://swimburger.net/media/ppnn3pcl/azure.png" />
+<img align="left" alt="MySQL" width="40px" src="https://i.imgur.com/0DhgDJa.jpg" height="40"/>
+<img align="left" alt="Git" width="40px" src="https://i.imgur.com/QdAeKG5.png" height="40"/>
+<img align="left" alt="GitHub" width="40px" src="https://i.imgur.com/LwBS0FG.png" height="40"/>
+<img align="left" alt="Terminal" width="40px" src="https://i.imgur.com/xtGnB3F.png" height="40"/>
+<img align="left" alt="Terminal" width="40px" src="https://swimburger.net/media/ppnn3pcl/azure.png" height="40"/>
 
 <br>
 <br>
