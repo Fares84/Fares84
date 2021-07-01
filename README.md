@@ -74,7 +74,8 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Fares84/github-readme-stats)*
 
-
+<details open>
+  <summary>:zap: GitHub Stats</summary> </details>
 <a href="https://github.com/Fares84/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fares84&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fares's github stats" />
 </a>
@@ -87,16 +88,11 @@
   <!-- Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fares84&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/Fares84/Fares84.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/Fares84.github.io">
+  <!-- Change the `github-readme-stats.Fares84.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fares84&repo=Fares84.github.io&theme=material-palenight" />
 </a>
 
 ---
 
-<details open>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Fares84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fares84&show_icons=true&hide_border=true&theme=dracula" />
-
-</details>
